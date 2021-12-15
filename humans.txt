@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    angedc02 angedc02
 
 # THANKS
 
